@@ -1,0 +1,48 @@
+[
+    
+    {
+      "name": "Polygon",
+      "rpc": "https://polygon-rpc.com",
+      "symbol": "Matic",
+      "explorers": "https://polygonscan.com/tx/",
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/06BkcTT.png",
+      "DEXRouter": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+      "DEXFactory": "0x5757371414417b8c6caad45baef941abc7d3ab32",
+      "DEXName": "QuickSwap",
+      "initcodeHash":"0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
+      "logoURI": "https://i.imgur.com/06BkcTT.png",
+      "tokenList": "https://alphaalgo.github.io/Tokens/Polygon.json",
+      "oracleAddress":"0x93E143A46826812Dd9a885fF07487a12720616A7"
+    },
+    {
+      "name": "Ethereum",
+      "rpc": "https://polygon-rpc.com",
+      "symbol": "Matic",
+      "explorers": "https://polygonscan.com/tx/",
+      "chainId": 1,
+      "logoURI": "https://i.imgur.com/06BkcTT.png",
+      "DEXRouter": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+      "DEXFactory": "0x5757371414417b8c6caad45baef941abc7d3ab32",
+      "DEXName": "QuickSwap",
+      "initcodeHash":"0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
+      "logoURI": "https://i.imgur.com/06BkcTT.png",
+      "tokenList": "https://alphaalgo.github.io/Tokens/Polygon.json",
+      "oracleAddress":"0x76390AD8C3e2c01bd2a609Fd73b6628e6b43DA51"
+    },
+    {
+      "name": "Binance",
+      "rpc": "https://binance.com",
+      "symbol": "Matic",
+      "explorers": "https://polygonscan.com/tx/",
+      "chainId": 56,
+      "logoURI": "https://i.imgur.com/06BkcTT.png",
+      "DEXRouter": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+      "DEXFactory": "0x5757371414417b8c6caad45baef941abc7d3ab32",
+      "DEXName": "QuickSwap",
+      "initcodeHash":"0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
+      "logoURI": "https://i.imgur.com/06BkcTT.png",
+      "tokenList": "https://alphaalgo.github.io/Tokens/Polygon.json",
+      "oracleAddress":"0x76390AD8C3e2c01bd2a609Fd73b6628e6b43DA51"
+    }
+  ]
