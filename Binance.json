@@ -5,7 +5,7 @@
         "name": "BNB",
         "symbol": "BNB",
         "decimals": 18,
-        "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/bnb.png"
+        "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/binance-coin.png"
       },
       {
         "chainId": 56,
