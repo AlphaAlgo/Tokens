@@ -1,5 +1,4 @@
-[
-    
+[    
     {
       "name": "Polygon",
       "rpc": "https://polygon-rpc.com",
@@ -27,5 +26,5 @@
       "initcodeHash":"0x00fb7f630766e6a796048ea87d01acd3068e8ff67d078148a3fa3f4a84f69bd5",
       "tokenList": "https://alphaalgo.github.io/Tokens/Binance.json",
       "oracleAddress":"0x76390AD8C3e2c01bd2a609Fd73b6628e6b43DA51"
-    },
-  ]
+    }
+]
