@@ -16,7 +16,7 @@
     {
       "name": "Binance",
       "rpc": "https://bsc-dataseed.binance.org/",
-      "symbol": "https://polygonscan.com/",
+      "symbol": "BNB",
       "explorers": "https://bscscan.com/tx/",
       "chainId": 56,
       "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/binance-coin.png",
