@@ -12,7 +12,7 @@
       "initcodeHash":"0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
       "tokenList": "https://alphaalgo.github.io/Tokens/Polygon.json",
       "oracleAddress":"0x93E143A46826812Dd9a885fF07487a12720616A7",
-      "fee":"1",
+      "fee":"0",
       "feeReciver":"0xAa608F4A27287C08d02C6876775A635D62dA6056"
     },
     {
@@ -28,7 +28,7 @@
       "initcodeHash":"0x00fb7f630766e6a796048ea87d01acd3068e8ff67d078148a3fa3f4a84f69bd5",
       "tokenList": "https://alphaalgo.github.io/Tokens/Binance.json",
       "oracleAddress":"0x76390AD8C3e2c01bd2a609Fd73b6628e6b43DA51",
-      "fee":"1",
+      "fee":"0",
       "feeReciver":"0xAa608F4A27287C08d02C6876775A635D62dA6056"
     }
 ]
