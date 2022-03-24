@@ -1,5 +1,5 @@
 [
-      {
+  {
         "chainId": 137,
         "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
         "name": "Matic",
@@ -7,60 +7,404 @@
         "decimals": 18,
         "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/matic.png"
       },
-      {
-        "chainId": 137,
-        "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
-        "name": "USDT",
-        "symbol": "USDT",
-        "decimals": 6,
-        "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/usdt.png"
-      },
-      {
-        "chainId": 137,
-        "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-        "name": "USDC",
-        "symbol": "USDC",
-        "decimals": 6,
-        "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/usdc.png"
-      },
-      {
-        "chainId": 137,
-        "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
-        "name": "WBTC",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/bitcoin.png"
-      },
-      {
-        "chainId": 137,
-        "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
-        "name": "Uniswap",
-        "symbol": "Uniswap",
-        "decimals": 18,
-        "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/uniswap.png"
-      },
-      {
-        "chainId": 137,
-        "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
-        "name": "AAVE",
-        "symbol": "AAVE",
-        "decimals": 18,
-        "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/aave.png"
-      },
-      {
-        "chainId": 137,
-        "address": "0x172370d5cd63279efa6d502dab29171933a610af",
-        "name": "CRV",
-        "symbol": "CRV",
-        "decimals": 18,
-        "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/crv.png"
-      },
-      {
-        "chainId": 137,
-        "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
-        "name": "1INCH",
-        "symbol": "1INCH",
-        "decimals": 18,
-        "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/1inch.png"
-      }
-    ]
+  {
+    "chainId": 137,
+    "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+    "name": "Frax (FRAX)",
+    "symbol": "Frax",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/frax_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x0621d647cecbfb64b79e44302c1933cb4f27054d",
+    "name": "Amp (AMP)",
+    "symbol": "Amp",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/amp_32.png?v=2"
+  },
+  {
+    "chainId": 137,
+    "address": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
+    "name": "binance-usd (BUSD)",
+    "symbol": "binance-usd",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/binanceusd_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x7ec26842f195c852fa843bb9f6d8b583a274a157",
+    "name": "EnjinCoin (ENJ)",
+    "symbol": "EnjinCoin",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/enjin_28_2.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+    "name": "Decentraland (MANA)",
+    "symbol": "Decentraland",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/decentraland_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+    "name": "Frax Share (FXS)",
+    "symbol": "Frax Share",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/fraxshare_32_2.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
+    "name": "BNB (BNB)",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/bnb_28_2.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+    "name": "Aave (PoS) (AAVE)",
+    "symbol": "Aave (PoS)",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/aave_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x553d3d295e0f695b9228246232edf400ed3560b5",
+    "name": "Paxos Gold (PAXG)",
+    "symbol": "Paxos Gold",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/paxosgold_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+    "name": "(PoS) Dai Stablecoin (DAI)",
+    "symbol": "(PoS) Dai Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x62414d03084eeb269e18c970a21f45d2967f0170",
+    "name": "OMG Network (OMG)",
+    "symbol": "OMG Network",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/OMGNetwork_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c",
+    "name": "Cronos Coin (CRO)",
+    "symbol": "Cronos Coin",
+    "decimals": 8,
+    "logoURI": "https://polygonscan.com/token/images/cro_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x0000000000000000000000000000000000001010",
+    "name": "Matic Token (MATIC)",
+    "symbol": "Matic Token",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/matic_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
+    "name": "Telcoin (TEL)",
+    "symbol": "Telcoin",
+    "decimals": 2,
+    "logoURI": "https://polygonscan.com/token/images/telcoin_28.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x3962f4a0a0051dcce0be73a7e09cef5756736712",
+    "name": "Livepeer Token (LPT)",
+    "symbol": "Livepeer Token",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/livepeer_28.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
+    "name": "Celsius (CEL)",
+    "symbol": "Celsius",
+    "decimals": 4,
+    "logoURI": "https://polygonscan.com/token/images/celsiustoken_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+    "name": "(PoS) yearn.finance (YFI)",
+    "symbol": "(PoS) yearn.finance",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/yearn-yfi_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
+    "name": "renBTC (renBTC)",
+    "symbol": "renBTC",
+    "decimals": 8,
+    "logoURI": "https://polygonscan.com/token/images/renbtcpoly_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
+    "name": "TrueUSD (TUSD)",
+    "symbol": "TrueUSD",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/trueusd_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xc9c1c1c20b3658f8787cc2fd702267791f224ce1",
+    "name": "Fantom Token (FTM)",
+    "symbol": "Fantom Token",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/fantomtoken_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66",
+    "name": "IoTeX Network (IOTX)",
+    "symbol": "IoTeX Network",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/iotex_28.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+    "name": "Graph Token (GRT)",
+    "symbol": "Graph Token",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/TheGraph_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
+    "name": "Nexo (NEXO)",
+    "symbol": "Nexo",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/nexo_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+    "name": "(PoS) Compound (COMP)",
+    "symbol": "(PoS) Compound",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/comp_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x06d02e9d62a13fc76bb229373fb3bbbd1101d2fc",
+    "name": "Bitfinex LEO Token (LEO)",
+    "symbol": "Bitfinex LEO Token",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/leo_28_2.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x3066818837c5e6ed6601bd5a91b0762877a6b731",
+    "name": "UMA Voting Token v1 (UMA)",
+    "symbol": "UMA Voting Token v1",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/umavotingtokenv1_32.png?v=3"
+  },
+  {
+    "chainId": 137,
+    "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+    "name": "Uniswap (PoS) (UNI)",
+    "symbol": "Uniswap (PoS)",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/uniswap_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+    "name": "ChainLink Token (LINK)",
+    "symbol": "ChainLink Token",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/chainlinktoken_32.png?v=6"
+  },
+  {
+    "chainId": 137,
+    "address": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
+    "name": "BAT (BAT)",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/bat.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x84e1670f61347cdaed56dcc736fb990fbb47ddc1",
+    "name": "LoopringCoin V2 (LRC)",
+    "symbol": "LoopringCoin V2",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/lrc_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8",
+    "name": "Gnosis (GNO)",
+    "symbol": "Gnosis",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/gnosans_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x0c51f415cf478f8d08c246a6c6ee180c5dc3a012",
+    "name": "HoloToken (HOT)",
+    "symbol": "HoloToken",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/holo_28.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x61299774020da444af134c82fa83e3810b309991",
+    "name": "Render Token (RNDR)",
+    "symbol": "Render Token",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/render_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xfad65eb62a97ff5ed91b23afd039956aaca6e93b",
+    "name": "HuobiToken (HT)",
+    "symbol": "HuobiToken",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/huobi_28.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+    "name": "Synthetix Network Token (PoS) (SNX)",
+    "symbol": "Synthetix Network Token (PoS)",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/synthetix-snx_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    "name": "(PoS) Tether USD (USDT)",
+    "symbol": "(PoS) Tether USD",
+    "decimals": 6,
+    "logoURI": "https://polygonscan.com/token/images/tether_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+    "name": "Maker (MKR)",
+    "symbol": "Maker",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/mkr-etherscan-35.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xf1938ce12400f9a761084e7a80d37e732a4da056",
+    "name": "chiliZ (CHZ)",
+    "symbol": "chiliZ",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/chiliz_28.png?v=2"
+  },
+  {
+    "chainId": 137,
+    "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+    "name": "(PoS) Wrapped BTC (WBTC)",
+    "symbol": "(PoS) Wrapped BTC",
+    "decimals": 8,
+    "logoURI": "https://polygonscan.com/token/images/wBTC_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "name": "Wrapped Ether (WETH)",
+    "symbol": "Wrapped Ether",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/wETH_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "name": "SAND (SAND)",
+    "symbol": "SAND",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/sand_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+    "name": "CRV (PoS) (CRV)",
+    "symbol": "CRV (PoS)",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/curvefi-crv_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+    "name": "1INCH Token (1INCH)",
+    "symbol": "1INCH Token",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/1inch_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "name": "USD Coin (PoS) (USDC)",
+    "symbol": "USD Coin (PoS)",
+    "decimals": 6,
+    "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x6f3b3286fd86d8b47ec737ceb3d0d354cc657b3e",
+    "name": "Paxos Standard (PAX)",
+    "symbol": "Paxos Standard",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/paxos_28_2.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xc26d47d5c33ac71ac5cf9f776d63ba292a4f7842",
+    "name": "Bancor (BNT)",
+    "symbol": "Bancor",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/bancor_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+    "name": "SushiToken (PoS) (SUSHI)",
+    "symbol": "SushiToken (PoS)",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/sushiswap-sushi_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x692597b009d13c4049a947cab2239b7d6517875f",
+    "name": "Wrapped UST Token (UST)",
+    "symbol": "Wrapped UST Token",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/terra-ust_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xb46e0ae620efd98516f49bb00263317096c114b2",
+    "name": "Theta Token (PoS) (THETA)",
+    "symbol": "Theta Token (PoS)",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/theta_28.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x7205705771547cf79201111b4bd8aaf29467b9ec",
+    "name": "Rocket Pool (RPL)",
+    "symbol": "Rocket Pool",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/Rocketpool_32.png"
+  }
+]
