@@ -6,14 +6,14 @@
         "symbol": "Matic",
         "decimals": 18,
         "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/matic.png"
-      },
+  },
   {
     "chainId": 137,
     "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
     "name": "Frax (FRAX)",
     "symbol": "Frax",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/frax_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/frax_32.png"
   },
   {
     "chainId": 137,
@@ -21,7 +21,7 @@
     "name": "Amp (AMP)",
     "symbol": "Amp",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/amp_32.png?v=2"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/amp_32.png?v=2"
   },
   {
     "chainId": 137,
@@ -29,7 +29,7 @@
     "name": "binance-usd (BUSD)",
     "symbol": "binance-usd",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/binanceusd_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/binanceusd_32.png"
   },
   {
     "chainId": 137,
@@ -37,7 +37,7 @@
     "name": "EnjinCoin (ENJ)",
     "symbol": "EnjinCoin",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/enjin_28_2.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/enjin_28_2.png"
   },
   {
     "chainId": 137,
@@ -45,7 +45,7 @@
     "name": "Decentraland (MANA)",
     "symbol": "Decentraland",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/decentraland_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/decentraland_32.png"
   },
   {
     "chainId": 137,
@@ -53,7 +53,7 @@
     "name": "Frax Share (FXS)",
     "symbol": "Frax Share",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/fraxshare_32_2.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/fraxshare_32_2.png"
   },
   {
     "chainId": 137,
@@ -61,7 +61,7 @@
     "name": "BNB (BNB)",
     "symbol": "BNB",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/bnb_28_2.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/bnb_28_2.png"
   },
   {
     "chainId": 137,
@@ -69,7 +69,7 @@
     "name": "Aave (PoS) (AAVE)",
     "symbol": "Aave (PoS)",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/aave_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/aave_32.png"
   },
   {
     "chainId": 137,
@@ -77,7 +77,7 @@
     "name": "Paxos Gold (PAXG)",
     "symbol": "Paxos Gold",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/paxosgold_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/paxosgold_32.png"
   },
   {
     "chainId": 137,
@@ -85,7 +85,7 @@
     "name": "(PoS) Dai Stablecoin (DAI)",
     "symbol": "(PoS) Dai Stablecoin",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/mcdDai_32.png"
   },
   {
     "chainId": 137,
@@ -93,7 +93,7 @@
     "name": "OMG Network (OMG)",
     "symbol": "OMG Network",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/OMGNetwork_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/OMGNetwork_32.png"
   },
   {
     "chainId": 137,
@@ -101,7 +101,7 @@
     "name": "Cronos Coin (CRO)",
     "symbol": "Cronos Coin",
     "decimals": 8,
-    "logoURI": "https://polygonscan.com/token/images/cro_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/cro_32.png"
   },
   {
     "chainId": 137,
@@ -109,7 +109,7 @@
     "name": "Matic Token (MATIC)",
     "symbol": "Matic Token",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/matic_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/matic_32.png"
   },
   {
     "chainId": 137,
@@ -117,7 +117,7 @@
     "name": "Telcoin (TEL)",
     "symbol": "Telcoin",
     "decimals": 2,
-    "logoURI": "https://polygonscan.com/token/images/telcoin_28.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/telcoin_28.png"
   },
   {
     "chainId": 137,
@@ -125,7 +125,7 @@
     "name": "Livepeer Token (LPT)",
     "symbol": "Livepeer Token",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/livepeer_28.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/livepeer_28.png"
   },
   {
     "chainId": 137,
@@ -133,7 +133,7 @@
     "name": "Celsius (CEL)",
     "symbol": "Celsius",
     "decimals": 4,
-    "logoURI": "https://polygonscan.com/token/images/celsiustoken_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/celsiustoken_32.png"
   },
   {
     "chainId": 137,
@@ -141,7 +141,7 @@
     "name": "(PoS) yearn.finance (YFI)",
     "symbol": "(PoS) yearn.finance",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/yearn-yfi_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/yearn-yfi_32.png"
   },
   {
     "chainId": 137,
@@ -149,7 +149,7 @@
     "name": "renBTC (renBTC)",
     "symbol": "renBTC",
     "decimals": 8,
-    "logoURI": "https://polygonscan.com/token/images/renbtcpoly_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/renbtcpoly_32.png"
   },
   {
     "chainId": 137,
@@ -157,7 +157,7 @@
     "name": "TrueUSD (TUSD)",
     "symbol": "TrueUSD",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/trueusd_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/trueusd_32.png"
   },
   {
     "chainId": 137,
@@ -165,7 +165,7 @@
     "name": "Fantom Token (FTM)",
     "symbol": "Fantom Token",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/fantomtoken_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/fantomtoken_32.png"
   },
   {
     "chainId": 137,
@@ -173,7 +173,7 @@
     "name": "IoTeX Network (IOTX)",
     "symbol": "IoTeX Network",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/iotex_28.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/iotex_28.png"
   },
   {
     "chainId": 137,
@@ -181,7 +181,7 @@
     "name": "Graph Token (GRT)",
     "symbol": "Graph Token",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/TheGraph_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/TheGraph_32.png"
   },
   {
     "chainId": 137,
@@ -189,7 +189,7 @@
     "name": "Nexo (NEXO)",
     "symbol": "Nexo",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/nexo_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/nexo_32.png"
   },
   {
     "chainId": 137,
@@ -197,7 +197,7 @@
     "name": "(PoS) Compound (COMP)",
     "symbol": "(PoS) Compound",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/comp_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/comp_32.png"
   },
   {
     "chainId": 137,
@@ -205,7 +205,7 @@
     "name": "Bitfinex LEO Token (LEO)",
     "symbol": "Bitfinex LEO Token",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/leo_28_2.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/leo_28_2.png"
   },
   {
     "chainId": 137,
@@ -213,7 +213,7 @@
     "name": "UMA Voting Token v1 (UMA)",
     "symbol": "UMA Voting Token v1",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/umavotingtokenv1_32.png?v=3"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/umavotingtokenv1_32.png?v=3"
   },
   {
     "chainId": 137,
@@ -221,7 +221,7 @@
     "name": "Uniswap (PoS) (UNI)",
     "symbol": "Uniswap (PoS)",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/uniswap_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/uniswap_32.png"
   },
   {
     "chainId": 137,
@@ -229,7 +229,7 @@
     "name": "ChainLink Token (LINK)",
     "symbol": "ChainLink Token",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/chainlinktoken_32.png?v=6"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/chainlinktoken_32.png?v=6"
   },
   {
     "chainId": 137,
@@ -237,7 +237,7 @@
     "name": "BAT (BAT)",
     "symbol": "BAT",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/bat.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/bat.png"
   },
   {
     "chainId": 137,
@@ -245,7 +245,7 @@
     "name": "LoopringCoin V2 (LRC)",
     "symbol": "LoopringCoin V2",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/lrc_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/lrc_32.png"
   },
   {
     "chainId": 137,
@@ -253,7 +253,7 @@
     "name": "Gnosis (GNO)",
     "symbol": "Gnosis",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/gnosans_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/gnosans_32.png"
   },
   {
     "chainId": 137,
@@ -261,7 +261,7 @@
     "name": "HoloToken (HOT)",
     "symbol": "HoloToken",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/holo_28.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/holo_28.png"
   },
   {
     "chainId": 137,
@@ -269,7 +269,7 @@
     "name": "Render Token (RNDR)",
     "symbol": "Render Token",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/render_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/render_32.png"
   },
   {
     "chainId": 137,
@@ -277,7 +277,7 @@
     "name": "HuobiToken (HT)",
     "symbol": "HuobiToken",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/huobi_28.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/huobi_28.png"
   },
   {
     "chainId": 137,
@@ -285,7 +285,7 @@
     "name": "Synthetix Network Token (PoS) (SNX)",
     "symbol": "Synthetix Network Token (PoS)",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/synthetix-snx_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/synthetix-snx_32.png"
   },
   {
     "chainId": 137,
@@ -293,7 +293,7 @@
     "name": "(PoS) Tether USD (USDT)",
     "symbol": "(PoS) Tether USD",
     "decimals": 6,
-    "logoURI": "https://polygonscan.com/token/images/tether_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/tether_32.png"
   },
   {
     "chainId": 137,
@@ -301,7 +301,7 @@
     "name": "Maker (MKR)",
     "symbol": "Maker",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/mkr-etherscan-35.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/mkr-etherscan-35.png"
   },
   {
     "chainId": 137,
@@ -309,7 +309,7 @@
     "name": "chiliZ (CHZ)",
     "symbol": "chiliZ",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/chiliz_28.png?v=2"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/chiliz_28.png?v=2"
   },
   {
     "chainId": 137,
@@ -317,7 +317,7 @@
     "name": "(PoS) Wrapped BTC (WBTC)",
     "symbol": "(PoS) Wrapped BTC",
     "decimals": 8,
-    "logoURI": "https://polygonscan.com/token/images/wBTC_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/wBTC_32.png"
   },
   {
     "chainId": 137,
@@ -325,7 +325,7 @@
     "name": "Wrapped Ether (WETH)",
     "symbol": "Wrapped Ether",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/wETH_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/wETH_32.png"
   },
   {
     "chainId": 137,
@@ -333,7 +333,7 @@
     "name": "SAND (SAND)",
     "symbol": "SAND",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/sand_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/sand_32.png"
   },
   {
     "chainId": 137,
@@ -341,7 +341,7 @@
     "name": "CRV (PoS) (CRV)",
     "symbol": "CRV (PoS)",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/curvefi-crv_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/curvefi-crv_32.png"
   },
   {
     "chainId": 137,
@@ -349,7 +349,7 @@
     "name": "1INCH Token (1INCH)",
     "symbol": "1INCH Token",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/1inch_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/1inch_32.png"
   },
   {
     "chainId": 137,
@@ -357,7 +357,7 @@
     "name": "USD Coin (PoS) (USDC)",
     "symbol": "USD Coin (PoS)",
     "decimals": 6,
-    "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/centre-usdc_32.png"
   },
   {
     "chainId": 137,
@@ -365,7 +365,7 @@
     "name": "Paxos Standard (PAX)",
     "symbol": "Paxos Standard",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/paxos_28_2.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/paxos_28_2.png"
   },
   {
     "chainId": 137,
@@ -373,7 +373,7 @@
     "name": "Bancor (BNT)",
     "symbol": "Bancor",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/bancor_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/bancor_32.png"
   },
   {
     "chainId": 137,
@@ -381,7 +381,7 @@
     "name": "SushiToken (PoS) (SUSHI)",
     "symbol": "SushiToken (PoS)",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/sushiswap-sushi_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/sushiswap-sushi_32.png"
   },
   {
     "chainId": 137,
@@ -389,7 +389,7 @@
     "name": "Wrapped UST Token (UST)",
     "symbol": "Wrapped UST Token",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/terra-ust_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/terra-ust_32.png"
   },
   {
     "chainId": 137,
@@ -397,7 +397,7 @@
     "name": "Theta Token (PoS) (THETA)",
     "symbol": "Theta Token (PoS)",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/theta_28.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/theta_28.png"
   },
   {
     "chainId": 137,
@@ -405,6 +405,6 @@
     "name": "Rocket Pool (RPL)",
     "symbol": "Rocket Pool",
     "decimals": 18,
-    "logoURI": "https://polygonscan.com/token/images/Rocketpool_32.png"
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/polygonicon/Rocketpool_32.png"
   }
 ]
