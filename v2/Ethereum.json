@@ -1,0 +1,410 @@
+[
+  {
+    "chainId": 1,
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/eth.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "name": "BAT",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/bat.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+    "name": "FTM",
+    "symbol": "FTM",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/fantomtoken_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "name": "DAI",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/MCDDai_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "name": "ENJ",
+    "symbol": "ENJ",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/enjin_28_2.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "name": "UNI",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/uniswap_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+    "name": "MATIC",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/matic-polygon_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfd09cf7cfffa9932e33668311c4777cb9db3c9be",
+    "name": "wMANA",
+    "symbol": "wMANA",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/matic-polygon_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+    "name": "CEL",
+    "symbol": "CEL",
+    "decimals": 4,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/celsiustoken1_28.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "name": "SNX",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/SynthetixSNX_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/centre-usdc_28.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "name": "LINK",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/chainlinktoken_32.png?v=6"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "name": "GRT",
+    "symbol": "GRT",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/TheGraph_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+    "name": "CHZ",
+    "symbol": "CHZ",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/chiliz_28.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+    "name": "cDAI",
+    "symbol": "cDAI",
+    "decimals": 8,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/compounddai_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+    "name": "BUSD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/binanceusd_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+    "name": "SAND",
+    "symbol": "SAND",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/sand_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+    "name": "TUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/trueusd_32.png?v=2"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd850942ef8811f2a866692a623011bde52a462c1",
+    "name": "VEN",
+    "symbol": "VEN",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/vechain_28.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x799a4202c12ca952cb311598a024c80ed371a41e",
+    "name": "ONE",
+    "symbol": "ONE",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/harmonyone_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3883f5e181fccaf8410fa61e12b59bad963fb645",
+    "name": "THETA",
+    "symbol": "THETA",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/theta_28.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/bnb_28_2.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "name": "CRO",
+    "symbol": "CRO",
+    "decimals": 8,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/cro_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "name": "FRAX",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/fraxfinance_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "name": "WBTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/wbtc_28.png?v=1"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "name": "cETH",
+    "symbol": "cETH",
+    "decimals": 8,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/compound-eth_28.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+    "name": "LEO",
+    "symbol": "LEO",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/leo_28_2.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "name": "MKR",
+    "symbol": "MKR",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/mkr-etherscan-35.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "name": "HEX",
+    "symbol": "HEX",
+    "decimals": 8,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/hex_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
+    "name": "wCELO",
+    "symbol": "wCELO",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/wrappedcelo_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5",
+    "name": "BIT",
+    "symbol": "BIT",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/bitdao_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+    "name": "OKB",
+    "symbol": "OKB",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/okex_28.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/tether_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "name": "wstETH",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/wsteth2_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+    "name": "UST",
+    "symbol": "UST",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/terra-ust_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+    "name": "KCS",
+    "symbol": "KCS",
+    "decimals": 6,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/kucointoken_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "name": "NEXO",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/nexo_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "name": "stETH",
+    "symbol": "stETH",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/lido-steth_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
+    "name": "LUNA",
+    "symbol": "LUNA",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/terra-luna_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+    "name": "cUSDC",
+    "symbol": "cUSDC",
+    "decimals": 8,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/compound-usdc_28.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "name": "SHIB",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/shibatoken_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4a220e6096b25eadb88358cb44068a3248254675",
+    "name": "QNT",
+    "symbol": "QNT",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/quantnetwork_28_2.png?v=2"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+    "name": "HT",
+    "symbol": "HT",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/huobi_28.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
+    "name": "GALA",
+    "symbol": "GALA",
+    "decimals": 8,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/gala_32.png?v=2"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+    "name": "WFIL",
+    "symbol": "WFIL",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/wrappedfil_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe1be5d3f34e89de342ee97e6e90d405884da6c67",
+    "name": "TRX",
+    "symbol": "TRX",
+    "decimals": 6,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/trontrx_32.png?v=2"
+  },
+  {
+    "chainId": 1,
+    "address": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+    "name": "MIM",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/mimstablecoin_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+    "name": "AMP",
+    "symbol": "AMP",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/amp_32.png?v=2"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
+    "name": "HBTC",
+    "symbol": "HBTC",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/huobibtc_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+    "name": "BTT",
+    "symbol": "BTT",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/bittorrent_32.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "name": "LRC",
+    "symbol": "LRC",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/ethereumicon/lrc_32.png"
+  }
+]
