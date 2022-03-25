@@ -1,0 +1,402 @@
+[
+  {
+    "chainId": 250,
+    "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+    "name": "CRV",
+    "symbol": "CRV",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/CurveFi_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x078eef5a2fb533e1a4d487ef64b27df113d12c32",
+    "name": "FBAND",
+    "symbol": "FBAND",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/fBand_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x468003b688943977e6130f4f68f23aad939a1040",
+    "name": "SPELL",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/spelltoken_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xc5e2b037d30a390e62180970b3aa4e91868764cd",
+    "name": "TAROT",
+    "symbol": "TAROT",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/tarotfinance_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+    "name": "LINK",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/chainlink_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+    "name": "SUSHI",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/sushiswap_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe",
+    "name": "BOO",
+    "symbol": "BOO",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/spookyswap-boo_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+    "name": "YFI",
+    "symbol": "YFI",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/YFI_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x667c856f1A624BAeFE89fC4909C8701296C86c98",
+    "name": "ONI",
+    "symbol": "ONI",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/onino_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37",
+    "name": "TSHARE",
+    "symbol": "TSHARE",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/tshare_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xd8321aa83fb0a4ecd6348d4577431310a6e0814d",
+    "name": "GEIST",
+    "symbol": "GEIST",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/geist_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
+    "name": "FRAX",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/frax_32_2.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+    "name": "SNX",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/Synthetix_SNX_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
+    "name": "BAND",
+    "symbol": "BAND",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/bandprotocol_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+    "name": "WFTM",
+    "symbol": "WFTM",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/wFtm_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
+    "name": "GTON",
+    "symbol": "GTON",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/gtoncapital_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xad996a45fd2373ed0b10efa4a8ecb9de445a4302",
+    "name": "ALPACA",
+    "symbol": "ALPACA",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/alpacafinance2_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+    "name": "HND",
+    "symbol": "HND",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/hundredfinance_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x69c744d3444202d35a2783929a0f930f2fbb05ad",
+    "name": "SFTM",
+    "symbol": "SFTM",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/sFtm_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
+    "name": "COVER",
+    "symbol": "COVER",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/cover_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x0cD022ddE27169b20895e0e2B2B8A33B25e63579",
+    "name": "RISE",
+    "symbol": "RISE",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/everrise_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x5e983ff70de345de15dbdcf0529640f14446cdfa",
+    "name": "sFHM",
+    "symbol": "sFHM",
+    "decimals": 9,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/sfhm_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e",
+    "name": "BEETS",
+    "symbol": "BEETS",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/beethovenx_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x3b42fd538597fd049648c9f017208bf712195b73",
+    "name": "PPAY",
+    "symbol": "PPAY",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/plasmafinance2_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+    "name": "SPIRIT",
+    "symbol": "SPIRIT",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/spiritswap_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/USDC_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xa71353bb71dda105d383b02fc2dd172c4d39ef8b",
+    "name": "RAI",
+    "symbol": "RAI",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/raireflexindex_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+    "name": "DAI",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/MCDDai_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x65c9d9d080714cda7b5d58989dc27f897f165179",
+    "name": "TETU",
+    "symbol": "TETU",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/tetuio_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x658b0c7613e890ee50b8c4bc6a3f41ef411208ad",
+    "name": "FETH",
+    "symbol": "FETH",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/fETH_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x1c174f6ab0753162befbb916c69def2cc1bfdec1",
+    "name": "TEMP",
+    "symbol": "TEMP",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/tempusfinance_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x85dec8c4b2680793661bca91a8f129607571863d",
+    "name": "BRUSH",
+    "symbol": "BRUSH",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/paintswaptoken_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x6c021ae822bea943b2e66552bde1d2696a53fbb7",
+    "name": "TOMB",
+    "symbol": "TOMB",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/tomb_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x44b26e839eb3572c5e959f994804a5de66600349",
+    "name": "HEGIC",
+    "symbol": "HEGIC",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/hegic_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xe1146b9ac456fcbb60644c36fd3f868a9072fc6e",
+    "name": "FBTC",
+    "symbol": "FBTC",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/fBTC_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+    "name": "wBAN",
+    "symbol": "wBAN",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/wrappedbananoftm_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xf31778d591c558140398f46feca42a6a2dbffe90",
+    "name": "HOGE",
+    "symbol": "HOGE",
+    "decimals": 9,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/hogefinance_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436",
+    "name": "KAE",
+    "symbol": "KAE",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/kanpekifinance_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11",
+    "name": "SFI",
+    "symbol": "SFI",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/saffron_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0",
+    "name": "HEC",
+    "symbol": "HEC",
+    "decimals": 9,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/hectordao_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xe55e19fb4f2d85af758950957714292dac1e25b2",
+    "name": "SYN",
+    "symbol": "SYN",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/synapse_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
+    "name": "MIM",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/mimstablecoin_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+    "name": "CERBY",
+    "symbol": "CERBY",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/cerbytoken_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x2a5062d22adcfaafbd5c541d4da82e4b450d4212",
+    "name": "KP3R",
+    "symbol": "KP3R",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/kp3r_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9",
+    "name": "LQDR",
+    "symbol": "LQDR",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/liquiddriver_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+    "name": "AAVE",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/aave_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+    "name": "AVAX",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/aave_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 8,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/wBTC_32.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a",
+    "name": "FXS",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/fraxfinanceshare_32_2.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0xe0654C8e6fd4D733349ac7E09f6f23DA256bF475",
+    "name": "SCREAM",
+    "symbol": "SCREAM",
+    "decimals": 18,
+    "logoURI": "https://alphaalgo.github.io/Tokens/v2/icon/fantomicon/scream_32.png"
+  }
+]
