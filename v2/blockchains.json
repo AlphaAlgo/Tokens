@@ -1,5 +1,20 @@
 [    
-      
+      {
+      "name": "Ethereum",
+      "rpc": "https://mainnet.infura.io/v3/37c756aeca5b479285c27827adbae5d1",
+      "symbol": "Matic",
+      "explorers": "https://etherscan.io/tx/",
+      "chainId": 1,
+      "logoURI": "https://alphaalgo.github.io/Tokens/coinicon/bitcoin.png",
+      "DEXRouter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "DEXFactory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
+      "DEXName": "Uniswap",
+      "initcodeHash":"0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
+      "tokenList": "https://alphaalgo.github.io/Tokens/v2/Ethereum.json",
+      "oracleAddress":"0x93E143A46826812Dd9a885fF07487a12720616A7",
+      "fee":"0",
+      "feeReciver":"0xAa608F4A27287C08d02C6876775A635D62dA6056"
+    },
     {
       "name": "Polygon",
       "rpc": "https://polygon-rpc.com",
